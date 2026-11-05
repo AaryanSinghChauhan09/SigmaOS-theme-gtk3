@@ -1,0 +1,9 @@
+[component]
+name = "SigmaOS-theme-gtk3"
+description = "SigmaOS subsystem component for theme-gtk3"
+version = "0.1.0"
+tier = 4
+
+[capabilities]
+contract_version = "1.0.0"
+principles = ["DRY", "KISS", "SOLID", "Arrange-Act-Assert", "Pristine-Sources"]
